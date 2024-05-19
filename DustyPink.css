@@ -1,0 +1,33 @@
+/**
+ * @name DustyPink
+ * @description A recolor of the DiscordRecolor Theme.
+ * @author theodotgr
+ * @version 1.0.0
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 255,182,208;
+  --accentcolor2: 255,182,208;
+  --linkcolor: 255,233,241;
+  --mentioncolor: 255,233,241;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 222,222,222;
+  --textdark: 197,196,196;
+  --textdarker: 179,178,178;
+  --textdarkest: 171,169,169;
+  --font: gg sans;
+  --backgroundaccent: 225,117,154;
+  --backgroundprimary: 215,105,143;
+  --backgroundsecondary: 225,117,154;
+  --backgroundsecondaryalt: 215,105,143;
+  --backgroundtertiary: 215,105,143;
+  --backgroundfloating: 225,117,154;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
